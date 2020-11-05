@@ -1,0 +1,29 @@
+
+/*coloe : #293249;*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #161B27;
+    color: #FFFFFF;
+}
+
+.card {
+    background-color: #1D2333;
+}
+
+.banner {
+    width: 100%;
+  
+}
+
+.inner_card_background {
+    background-color: #161B27;
+}
+
+img {
+    width: 100%;
+}
